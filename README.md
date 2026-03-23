@@ -2,6 +2,8 @@
 
 Terminal-based Space Invaders on steroids — full color, particle explosions, power-ups, multiple invader types, enemy fire, destructible barriers, combo scoring, and level progression. Built in Rust.
 
+![Space Invaders Demo](docs/demo.png)
+
 ## Features
 
 - **Full color rendering** — colored invaders, shots, explosions, and UI via crossterm
